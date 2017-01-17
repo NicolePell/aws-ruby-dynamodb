@@ -1,0 +1,27 @@
+{
+  "location_coords"=>
+  {
+    "longitude"=>#<BigDecimal:7ffaca9126d0,'-0.1044522E0',9(18)>,
+    "latitude"=>#<BigDecimal:7ffaca9125e0,'0.515233963E2',18(18)>
+  },
+  "inventory"=>[
+    {
+      "number"=>#<BigDecimal:7ffaca912298,'0.1E1',9(18)>,
+      "comment"=>"Limited stock", "size"=>"5"
+    }
+  ],
+  "brand"=>"Back in Black", "sizes"=>["5"],
+  "date_created"=>"2016-02-16T09:00:00Z",
+  "product_id"=>#<BigDecimal:7ffaca911b68,'0.47E2',9(18)>,
+  "name"=>"DYNAMIC Plimsolls",
+  "gender"=>"f",
+  "image"=>
+  {
+    "uri"=>"https://s3-eu-west-1.amazonaws.com/connectedstoreassets/product_images/DynamicPlimsolls.jpg"
+  },
+  "category"=>"Clothing",
+  "new_flag"=>true,
+  "qr_id"=>"47backinblack",
+  "price"=>"60",
+  "type"=>"Shoes"
+}

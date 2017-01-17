@@ -1,0 +1,40 @@
+[
+  {
+    "user_id": 66228,
+    "accepts_marketing": true,
+    "device_token": "7576C77BEBD50B66F56E5C8F67AA3050F4B897ACCFB1A4E4D4DE264EE1E21CEB",
+    "email_address": "luiza.ivanov@starbrights.uk",
+    "first_name": "Luiza",
+    "gender": "f",
+    "is_employee": true,
+    "last_name": "Ivanov",
+    "profile_picture_uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/user_images/App-LoggedInProfileLuiza.png",
+    "bundle_id": "com.deloittedigital.starbright-retail-assistant",
+    "debug": true,
+    "createdAt": "2017-01-11T13:37:03.954Z",
+    "updatedAt": "2017-01-11T18:00:50.447Z",
+    "total_spend": null,
+    "wishlist_products": [23, 67],
+    "favourite_products": [{
+      "date_favourited": "2016 - 01 - 06 T19: 00: 00.000 ",
+      "product_id": 1
+    }]
+  },
+ {
+   "user_id": 54908,
+   "accepts_marketing": true,
+   "device_token": "2415F402469BDC9656C344ADDCEEDA342FE9498E6B9D8D37E4460131DE91E1C1",
+   "email_address": "zoe.simpson@mailinator.com",
+   "first_name": "Zoe",
+   "gender": "f",
+   "is_employee": false,
+   "last_name": "Simpson",
+   "profile_picture_uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/user_images/App-LoggedInProfileZoe.png",
+   "bundle_id": "com.deloittedigital.starbright-consumer",
+   "debug": true,
+   "createdAt": "2017-01-12T18:26:57.535Z",
+   "updatedAt": "2017-01-13T10:24:30.380Z",
+   "last_store_visit": "2016-01-08T09:30:00.000Z",
+   "total_spend": 29.5
+ }
+]

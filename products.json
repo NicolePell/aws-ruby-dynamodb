@@ -1,0 +1,1043 @@
+[
+ {
+   "product_id": 47,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/DynamicPlimsolls.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "5"}
+   ],
+   "name": "DYNAMIC Plimsolls",
+   "price": 60,
+   "qr_id": "47backinblack",
+   "sizes": ["5"],
+   "type": "Shoes",
+   "location_coords":
+   {
+     "latitude": 51.5233963,
+     "longitude": -0.1044522
+   },
+   "new_flag": true
+ },
+ {
+   "product_id": 54,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/54cashewnuts.jpg"
+   },
+   "inventory": [
+     {"number": 1, "size": "70g"}
+   ],
+   "name": "Cashew Nuts",
+   "price": 4.99,
+   "qr_id": "54clerkandgreen",
+   "sizes": ["70g"],
+   "type": "Nuts",
+   "new_flag": false
+ },
+ {
+   "product_id": 32,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/NoisyMayDevilSkinnyJeansWithRippedKnees.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "XS"},
+     {"comment": "Limited stock", "number": 1, "size": "S"}
+   ],
+   "name": "Noisy May Devil Skinny Jeans With Ripped Knees",
+   "price": 26,
+   "qr_id": "32backinblack",
+   "sizes": ["XS", "S"],
+   "type": "Jeans",
+   "location_coords": {"latitude": 51.5233963, "longitude": -0.1044522}
+ },
+ {
+   "product_id": 56,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/56saltedcrisps.jpg"
+   },
+   "inventory":
+   [
+     {"number": 1, "size": "170g"}
+   ],
+   "name": "Sea Salted Chips",
+   "price": 1.5,
+   "qr_id": "56clerkandgreen",
+   "sizes": ["170g"],
+   "type": "Treats",
+   "new_flag": false
+ },
+ {
+   "product_id": 44,
+   "brand": "Scandi",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/WeekdayButtonUpDenimJacketWithRawEdgeHem.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "XS"},
+     {"comment": "Limited stock", "number": 1, "size": "L"}
+   ],
+   "name": "Weekday Button Up Denim Jacket With Raw Edge Hem",
+   "price": 42,
+   "qr_id": "44scandi",
+   "sizes": ["XS", "L"],
+   "type": "Jacket",
+   "location_coords": {"latitude": 51.5234143, "longitude": -0.1044068}
+ },
+ {
+   "product_id": 39,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/SupergaCotmetuGoldPlimsollTrainers.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "3"}
+   ],
+   "name": "Superga Cotmetu Gold Plimsoll Trainers",
+   "price": 35,
+   "qr_id": "39leftfield",
+   "sizes": ["3"],
+   "type": "Shoes",
+   "location_coords": {"latitude": 51.5233744, "longitude": -0.1045055}
+ },
+ {
+   "product_id": 10,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSBLACKJacquardCigaretteTrousers.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "14"}
+   ],
+   "name": "Jacquard Cigarette Trousers",
+   "price": 22.5,
+   "qr_id": "10leftfield",
+   "sizes": ["14"],
+   "type": "Trousers",
+   "location_coords": {"latitude": 51.5233843, "longitude": -0.1044903}
+ },
+ {
+   "product_id": 31,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiStripeTop.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "XS"},
+     {"comment": "Limited stock", "number": 1, "size": "S"}
+   ],
+   "name": "Monki Stripe Top",
+   "price": 10,
+   "qr_id": "31breton",
+   "sizes": ["XS", "S"],
+   "type": "T-Shirt",
+   "location_coords": {"latitude": 51.5233925, "longitude": -0.1045326}
+ },
+ {
+   "product_id": 58,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/58driedmango.jpg"
+   },
+   "inventory":
+   [
+     {"number": 1, "size": "100g"}
+   ],
+   "name": "Dried Mango",
+   "price": 1.6,
+   "qr_id": "58clerkandgreen",
+   "sizes": ["100g"],
+   "type": "Dried",
+   "new_flag": false
+ },
+ {
+   "product_id": 38,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/SharonFluidMaxiDress.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "EU 34"}
+   ],
+   "name": "Sharon Fluid Maxi Dress",
+   "price": 32.5,
+   "qr_id": "38leftfield",
+   "sizes": ["EU 34"],
+   "type": "Dress",
+   "location_coords": {"latitude": 51.5233843, "longitude": -0.1044903}
+ },
+ {
+   "product_id": 21,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/Levi's501CustomisedVintageFitJeans.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "W27 L32"}
+   ],
+   "name": "Levi's 501 Customised Vintage Fit Jeans",
+   "price": 40,
+   "qr_id": "21breton",
+   "sizes": ["W27 L32"],
+   "type": "Jeans",
+   "location_coords":
+   {"latitude": 51.5233925, "longitude": -0.1045326}
+ },
+ {
+   "product_id": 40,
+   "brand": "Table Accessories",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/VeroModaKimonoSleeveJerseyDress.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "XS"},
+     {"comment": "Limited stock", "number": 1, "size": "S"},
+     {"comment": "Limited stock", "number": 1, "size": "M"}
+   ],
+   "name": "Vero Moda Kimono Sleeve Jersey Dress",
+   "price": 14,
+   "qr_id": "40tableaccessories",
+   "sizes": ["XS", "S", "M"],
+   "type": "Dress",
+   "location_coords": {"latitude": 51.5234143, "longitude": -0.1044068}
+ },
+ {
+   "product_id": 14,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSTexturedBikerJacketWithZipDetail.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "6"}
+   ],
+   "name": "Textured Biker Jacket With Zip Detail",
+   "price": 38.5,
+   "qr_id": "14backinblack",
+   "sizes": ["6"],
+   "type": "Jacket",
+   "location_coords": {"latitude": 51.5233963, "longitude": -0.1044522},
+   "new_flag": true,
+   "image_horizontal":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/connectedstoreassets/product_images/jacketImage.png"
+   },
+   "suggested_products":
+   [
+     {"product_id": 32, "rank": 1},
+     {"product_id": 34, "rank": 2},
+     {"product_id": 18, "rank": 3},
+     {"product_id": 39, "rank": 4}
+   ]
+ },
+ {
+   "product_id": 55,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/55chocolatebuttons.jpg"
+   },
+   "inventory":
+   [
+     {"number": 1, "size": "150g"}
+   ],
+   "name": "Chocolate Buttons",
+   "price": 1.6,
+   "qr_id": "55clerkandgreen",
+   "sizes": ["150g"],
+   "type": "Treats",
+   "new_flag": false
+ },
+ {
+   "product_id": 18,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/CheapMondayHypnoWheelT-Shirt.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "XS"},
+     {"comment": "Limited stock", "number": 1, "size": "M"}
+   ],
+   "name": "Cheap Monday Hypno Wheel T-Shirt",
+   "price": 25,
+   "qr_id": "18backinblack",
+   "sizes": ["XS", "M"],
+   "type": "T-Shirt",
+   "location_coords": {"latitude": 51.5233963, "longitude": -0.1044522}
+ },
+ {
+   "product_id": 25,
+   "brand": "Scandi",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiHighThighSideSplitDress.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "EU 36"},
+     {"comment": "Limited stock", "number": 1, "size": "EU 38"},
+     {"comment": "Limited stock", "number": 1, "size": "EU 40"}
+   ],
+   "name": "Monki High Thigh Side Split Dress",
+   "price": 12,
+   "qr_id": "25scandi",
+   "sizes": ["EU 36", "EU 38", "EU 40"],
+   "type": "Dress",
+   "location_coords": {"latitude": 51.5234143, "longitude": -0.1044068}
+ },
+ {
+   "product_id": 12,
+   "brand": "Table Accessories",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSJumperWithPaddedNeckinRib(Cream).jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "10"}
+   ],
+   "name": "Jumper With Padded Neck In Rib - Cream",
+   "price": 17.5,
+   "qr_id": "12tableaccessories",
+   "sizes": ["10"],
+   "type": "Jumper",
+   "location_coords": {"latitude": 51.5234129, "longitude": -0.1044689}
+ },
+ {
+   "product_id": 53,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/53ciabatta.jpg"
+   },
+   "inventory":
+   [
+     {"number": 1, "size": "270g"}
+   ],
+   "name": "Ciabatta",
+   "price": 1.8,
+   "qr_id": "53clerkandgreen",
+   "sizes": ["270g"],
+   "type": "Bread",
+   "new_flag": false
+ },
+ {
+   "product_id": 52,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/52laurentperrierbrut.jpg"
+   },
+   "inventory":
+   [
+     {"number": 1, "size": "75c"}
+   ],
+   "name": "Champagne",
+   "price": 22.99,
+   "qr_id": "52laurentperrierbrut",
+   "sizes": ["75cl"],
+   "type": "Wine",
+   "new_flag": true
+ },
+ {
+   "product_id": 27,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiMetallicDress.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "12"},
+     {"comment": "Limited stock", "number": 1, "size": "14"}
+   ],
+   "name": "Monki Metallic Dress",
+   "price": 15,
+   "qr_id": "27leftfield",
+   "sizes": ["12", "14"],
+   "type": "Dress",
+   "location_coords": {"latitude": 51.5233843, "longitude": -0.1044903}
+ },
+ {
+   "product_id": 26,
+   "brand": "Table Accessories",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiLargePortfolioTravelWallet.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "One size"}
+   ],
+   "name": "Monki Large Portfolio Travel Wallet",
+   "price": 9,
+   "qr_id": "26tableaccessories",
+   "sizes": ["One size"],
+   "type": "Accessory",
+   "location_coords": {"latitude": 51.5234129, "longitude": "-0.1044689"}
+ },
+ {
+   "product_id": 13,
+   "brand": "Table Accessories",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSJumperWithPaddedNeckinRib(Grey).jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "4"}
+   ],
+   "name": "Jumper With Padded Neck In Rib - Grey",
+   "price": 19,
+   "qr_id": "13tableaccessories",
+   "sizes": ["4"],
+   "type": "Jumper",
+   "location_coords": {"latitude": 51.5234129, "longitude": -0.1044689},
+   "new_flag": true
+ },
+ {
+   "product_id": 16,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSWhitePocketDetailJumpsuit.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "10"},
+     {"comment": "Limited stock", "number": 1, "size": "12"}
+   ],
+   "name": "Pocket Detail Jumpsuit",
+   "price": 35,
+   "qr_id": "16leftfield",
+   "sizes": ["10", "12"],
+   "type": "Jumpsuit",
+   "location_coords": {"latitude": 51.5234143, "longitude": -0.1044068}
+ },
+ {
+   "product_id": 45,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/WeekdayPleatSleevelessTop.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "S"},
+     {"comment": "Limited stock", "number": 1, "size": "L"}
+   ],
+   "name": "Weekday Pleat Sleeveless Top",
+   "price": 13,
+   "qr_id": "45backinblack",
+   "sizes": ["S", "L"],
+   "type": "Top",
+   "location_coords": {"latitude": 51.5233963, "longitude": -0.1044522}
+ },
+ {
+   "product_id": 41,
+   "brand": "Scandi",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/WarehouseSuedeHeeledANkleBoot.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "5"}
+   ],
+   "name": "Warehouse Suede Heeled Ankle Boot",
+   "price": 75,
+   "qr_id": "41scandi",
+   "sizes": ["5"],
+   "type": "Shoes",
+   "location_coords": {"latitude": 51.5234143, "longitude": -0.1044068},
+   "image_horizontal":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/connectedstoreassets/product_images/shoe(main).png"
+   },
+   "suggested_products":
+   [
+     {"product_id": 36, "rank": 1},
+     {"product_id": 44, "rank": 2},
+     {"product_id": 24, "rank": 3},
+     {"product_id": 47, "rank": 4}
+   ]
+ },
+ {
+   "product_id": 17,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSWHITEPrintedPanelJacket.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "8"},
+     {"comment": "Limited stock", "number": 1, "size": "10"}
+   ],
+   "name": "Printed Panel Jacket",
+   "price": 29,
+   "qr_id": "17leftfield",
+   "sizes": ["8", "10"],
+   "type": "Jacket",
+   "location_coords": {"latitude": 51.5233843, "longitude": "-0.1044903"}
+ },
+ {
+   "product_id": 46,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/WeekdayStructTunicDress.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "XS"}
+   ],
+   "name": "Weekday Struct Tunic Dress",
+   "price": 24,
+   "qr_id": "46backinblack",
+   "sizes": ["XS"],
+   "type": "Dress",
+   "location_coords": {"latitude": 51.5233963, "longitude": -0.1044522}
+ },
+ {
+   "product_id": 50,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/50chateauvalfontaine.jpg"
+   },
+   "inventory":
+   [
+     {"number": 1, "size": "75c"}
+   ],
+   "name": "Catena Malbec",
+   "price": 9.49,
+   "qr_id": "50clerkandgreen",
+   "sizes": ["75cl"],
+   "type": "Wine",
+   "new_flag": false
+ },
+ {
+   "product_id": 36,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/SelectedKarlyStripedHighNeckDress.jpg"
+   },
+   "inventory":
+   [
+     {"comment": "Limited stock", "number": 1, "size": "XS"},
+     {"comment": "Limited stock", "number": 1, "size": "S"},
+     {"comment": "Limited stock", "number": 1, "size": "M"}
+   ],
+   "name": "Karly Striped High Neck Dress",
+   "price": 90,
+   "qr_id": "36breton",
+   "sizes": ["XS", "S", "M"],
+   "type": "Dress",
+   "location_coords": {"latitude": 51.5233925, "longitude": -0.1045326},
+   "image_horizontal":
+   {
+     "uri": "https://s3-eu-west-1.amazonaws.com/connectedstoreassets/product_images/DressImage.png"
+   },
+   "suggested_products":
+   [
+     {"product_id": 44, "rank": 1},
+     {"product_id": 41, "rank": 2},
+     {"product_id": 24, "rank": 3},
+     {"product_id": 47, "rank": 4}
+   ]
+ },
+ {
+   "product_id": 59,
+   "brand": "Burts Bees",
+   "category": "Beauty",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/59burtsbees.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"Mixed Kit\" }      }    }  ]",
+   "name": "Natural Skincare Moisturiser",
+   "price": 12.99,
+   "qr_id": "59burtsbees",
+   "sizes": "[    { \"S\" : \"Mixed Kit\" }  ]",
+   "type": "Skincare",
+   "location_coords": "",
+   "new_flag": false,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 20,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/JDYPrintedTrouser.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 36\" }      }    }  ]",
+   "name": "JDY Printed Trouser",
+   "price": 10,
+   "qr_id": "20leftfield",
+   "sizes": "[    { \"S\" : \"EU 36\" }  ]",
+   "type": "Trousers",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233843\" },    \"longitude\" : { \"N\" : \"-0.1044903\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 19,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/FrenchConnectionSummerStoriesCollarlessCoat.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"12\" }      }    }  ]",
+   "name": "Summer Stories Collarless Coat",
+   "price": 32,
+   "qr_id": "19backinblack",
+   "sizes": "[    { \"S\" : \"12\" }  ]",
+   "type": "Coat",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233963\" },    \"longitude\" : { \"N\" : \"-0.1044522\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 61,
+   "brand": "Vera Wang",
+   "category": "Gifts",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/61verawang.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"4x6\" }      }    }  ]",
+   "name": "Coloured Photoframe",
+   "price": 30,
+   "qr_id": "61verawang",
+   "sizes": "[    { \"S\" : \"4x6\" }  ]",
+   "type": "Photoframe",
+   "location_coords": "",
+   "new_flag": false,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 33,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ParkLaneFlatformPlimsolls.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"5\" }      }    }  ]",
+   "name": "Park Lane Flatform Plimsolls",
+   "price": 18,
+   "qr_id": "33breton",
+   "sizes": "[    { \"S\" : \"5\" }  ]",
+   "type": "Shoes",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233864\" },    \"longitude\" : { \"N\" : \"-0.1045505\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 34,
+   "brand": "Back in Black",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/SelectedCevinaSleevelessTopwithBeading.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 36\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 38\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 40\" }      }    }  ]",
+   "name": "Cevina Sleeveless Top with Beading",
+   "price": 59.5,
+   "qr_id": "34backinblack",
+   "sizes": "[    { \"S\" : \"EU 36\" },    { \"S\" : \"EU 38\" },    { \"S\" : \"EU 40\" }  ]",
+   "type": "Top",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233963\" },    \"longitude\" : { \"N\" : \"-0.1044522\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 35,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/SelectedDelmaLongsleeveDenimShirt.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 34\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 38\" }      }    }  ]",
+   "name": "Delma Longsleeve Denim Shirt",
+   "price": 24,
+   "qr_id": "35breton",
+   "sizes": "[    { \"S\" : \"EU 34\" },    { \"S\" : \"EU 38\" }  ]",
+   "type": "Shirt",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233925\" },    \"longitude\" : { \"N\" : \"-0.1045326\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 42,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/WeekdayOversizeBeltedTencelMac.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"2\" },        \"size\" : { \"S\" : \"XS\" }      }    }  ]",
+   "name": "Weekday Oversize Belted Tencel Mac",
+   "price": 84,
+   "qr_id": "42breton",
+   "sizes": "[    { \"S\" : \"XS\" }  ]",
+   "type": "Coat",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233925\" },    \"longitude\" : { \"N\" : \"-0.1045326\" }  }",
+   "new_flag": true,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 37,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/SelectedNuneShiftDressinCrinkleMetallic.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 34\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 38\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"EU 40\" }      }    }  ]",
+   "name": "Nune Shift Dress in Crinkle Metallic",
+   "price": 50,
+   "qr_id": "37leftfield",
+   "sizes": "[    { \"S\" : \"EU 34\" },    { \"S\" : \"EU 38\" },    { \"S\" : \"EU 40\" }  ]",
+   "type": "Dress",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233843\" },    \"longitude\" : { \"N\" : \"-0.1044903\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 51,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/51magnushill.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"75c\" }      }    }  ]",
+   "name": "Magnus Hill Chardonnay",
+   "price": 9.99,
+   "qr_id": "51clerkandgreen",
+   "sizes": "[    { \"S\" : \"75cl\" }  ]",
+   "type": "Wine",
+   "location_coords": "",
+   "new_flag": false,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 43,
+   "brand": "Scandi",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/WeekdayBoatNeckTopWithButtonSleeveDetail.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"XS\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"S\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"M\" }      }    }  ]",
+   "name": "Weekday Boat Neck Top With Button Sleeve Detail",
+   "price": 18,
+   "qr_id": "43scandi",
+   "sizes": "[    { \"S\" : \"XS\" },    { \"S\" : \"S\" },    { \"S\" : \"M\" }  ]",
+   "type": "Top",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5234143\" },    \"longitude\" : { \"N\" : \"-0.1044068\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 22,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MissguidedGhillieShoeBootWithBlockHeel.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"5\" }      }    }  ]",
+   "name": "Missguided Ghillie Shoe Boot With Block Heel",
+   "price": 35,
+   "qr_id": "22breton",
+   "sizes": "[    { \"S\" : \"5\" }  ]",
+   "type": "Shoes",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233864\" },    \"longitude\" : { \"N\" : \"-0.1045505\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 29,
+   "brand": "Table Accessories",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiSocksinMarl.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"M\" }      }    }  ]",
+   "name": "Monki Socks in Marl",
+   "price": 4.5,
+   "qr_id": "29tableaccessories",
+   "sizes": "[    { \"S\" : \"M\" }  ]",
+   "type": "Socks",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5234129\" },    \"longitude\" : { \"N\" : \"-0.1044689\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 24,
+   "brand": "Table Accessories",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiAcrossBodySatchel.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"One size\" }      }    }  ]",
+   "name": "Monki Across Body Satchel",
+   "price": 52,
+   "qr_id": "24tableaccessories",
+   "sizes": "[    { \"S\" : \"One size\" }  ]",
+   "type": "Accessory",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5234129\" },    \"longitude\" : { \"N\" : \"-0.1044689\" }  }",
+   "new_flag": true,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 23,
+   "brand": "Scandi",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiAbstractPrintShirtDress.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"XS\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"S\" }      }    }  ]",
+   "name": "Monki Abstract Print Shirt Dress",
+   "price": 21,
+   "qr_id": "23scandi",
+   "sizes": "[    { \"S\" : \"XS\" },    { \"S\" : \"S\" }  ]",
+   "type": "Dress",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5234143\" },    \"longitude\" : { \"N\" : \"-0.1044068\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 30,
+   "brand": "Breton",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiStripeTee.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"XS\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"S\" }      }    }  ]",
+   "name": "Monki Stripe Tee",
+   "price": 10,
+   "qr_id": "30breton",
+   "sizes": "[    { \"S\" : \"XS\" },    { \"S\" : \"S\" }  ]",
+   "type": "T-Shirt",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233925\" },    \"longitude\" : { \"N\" : \"-0.1045326\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 15,
+   "brand": "Scandi",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSWHITECablePanelSweatTop.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"10\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"12\" }      }    }  ]",
+   "name": "WHITE CABLE PANEL Sweat Top",
+   "price": 36,
+   "qr_id": "15scandi",
+   "sizes": "[    { \"S\" : \"10\" },    { \"S\" : \"12\" }  ]",
+   "type": "Jumper",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5234143\" },    \"longitude\" : { \"N\" : \"-0.1044068\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 28,
+   "brand": "Scandi",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/MonkiShirtDressWithTieWaist.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"XS\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"S\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"M\" }      }    }  ]",
+   "name": "Monki Shirt Dress With Tie Waist",
+   "price": 35,
+   "qr_id": "28scandi",
+   "sizes": "[    { \"S\" : \"XS\" },    { \"S\" : \"S\" },    { \"S\" : \"M\" }  ]",
+   "type": "Dress",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5234143\" },    \"longitude\" : { \"N\" : \"-0.1044068\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 11,
+   "brand": "Left Field",
+   "category": "Clothing",
+   "date_created": "2016-02-16T09:00:00Z",
+   "gender": "f",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/ASOSChunkyJumperwithHighNeckinBoucle.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"8\" }      }    },    { \"M\" : {        \"comment\" : { \"S\" : \"Limited stock\" },        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"12\" }      }    }  ]",
+   "name": "Chunky Jumper With High Neck In Boucle",
+   "price": 15,
+   "qr_id": "11leftfield",
+   "sizes": "[    { \"S\" : \"8\" },    { \"S\" : \"12\" }  ]",
+   "type": "Jumper",
+   "location_coords": "{    \"latitude\" : { \"N\" : \"51.5233843\" },    \"longitude\" : { \"N\" : \"-0.1044903\" }  }",
+   "new_flag": null,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 57,
+   "brand": "Clerk and Green",
+   "category": "Food Hall",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/57parmesancheesebreadsticks.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"300g\" }      }    }  ]",
+   "name": "Parmesan Cheese Breadsticks",
+   "price": 1.2,
+   "qr_id": "57clerkandgreen",
+   "sizes": "[    { \"S\" : \"300g\" }  ]",
+   "type": "Bread",
+   "location_coords": "",
+   "new_flag": false,
+   "image_horizontal": "",
+   "suggested_products": ""
+ },
+ {
+   "product_id": 60,
+   "brand": "The Jay St Block Print Company",
+   "category": "Home",
+   "date_created": "2016-02-18T14:00:00Z",
+   "gender": "n",
+   "image": "{    \"uri\" : { \"S\" : \"https://s3-eu-west-1.amazonaws.com/clerkandgreen-assets/product_images/60thejaystblockprintcompany.jpg\" }  }",
+   "inventory": "[    { \"M\" : {        \"number\" : { \"N\" : \"1\" },        \"size\" : { \"S\" : \"Double Duvet\" }      }    }  ]",
+   "name": "Vibrant Double Duvet",
+   "price": 59,
+   "qr_id": "60thejaystblockprintcompany",
+   "sizes": "[    { \"S\" : \"Double Duvet\" }  ]",
+   "type": "Bedding",
+   "location_coords": "",
+   "new_flag": false,
+   "image_horizontal": "",
+   "suggested_products": ""
+ }
+]
